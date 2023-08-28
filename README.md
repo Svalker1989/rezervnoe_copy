@@ -16,7 +16,7 @@
 * Резервная копия размещается локально, в директории /tmp/backup
 * На проверку направить файл crontab и скриншот с результатом работы утилиты.
 ### Файл contab
-[](https://github.com/Svalker1989/rezervnoe_copy/blob/main/rsync_cron.sh)
+[Файл contab](https://github.com/Svalker1989/rezervnoe_copy/blob/main/rsync_cron.sh)
 ### Скриншот с результатом выполнения
 ![](https://github.com/Svalker1989/rezervnoe_copy/blob/main/Z2.PNG)
 ---
